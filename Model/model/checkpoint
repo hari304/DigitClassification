@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/hari304/MNIST/model/mnist_cnn.chkp"
+all_model_checkpoint_paths: "/home/hari304/MNIST/model/mnist_cnn.chkp"
